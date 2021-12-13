@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background: purple;
+  margin: 30px;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.bla{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: screen;
+}
+
+.bla2{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: lighten;
+}
+
+.bla3{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: multiply;
+}
+
+.bla4{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: overlay;
+}
+
+.bla5{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: darken;
+}
+
+.bla6{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: color-dodge;
+}
+
+.bla7{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: saturation;
+}
+
+.bla8{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: color;
+}
+
+.bla9{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: luminosity;
+}
+
+.bla10{
+  width: 850px;
+  height: 700px;
+  font-size: 100px;
+  text-align: center;
+  color: green;
+
+  background-color: red;
+  background-image: url(thumb-1920-1139496.jpg);
+  background-blend-mode: normal;
+}
